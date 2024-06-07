@@ -562,7 +562,7 @@
                     Prepare for the grand debut of SURe, where luxury meets
                     accessibility. Stay tuned for an exclusive array of premium
                     products and services, effortless transactions, and a
-                    user-centric platform tailored to your needs.   
+                    user-centric platform tailored to your needs. 
                   </span>
                   <span>COMING SOON!</span>
                 </span>
